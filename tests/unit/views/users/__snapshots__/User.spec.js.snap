@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User.vue renders correctly 1`] = `
+<div
+  class="row"
+>
+  <div
+    class="col-12 col-lg-6"
+  >
+    <div
+      class="card"
+    >
+      <header
+        class="card-header"
+      >
+        
+        User id:  1
+      
+      </header>
+       
+      <div
+        class="card-body"
+      >
+        <div
+          data-v-ceef3348=""
+          small=""
+        >
+          <!---->
+          <div
+            class="position-relative table-responsive"
+            data-v-ceef3348=""
+          >
+            <table
+              class="table table-striped b-table-fixed"
+              data-v-ceef3348=""
+            >
+              <thead
+                data-v-ceef3348=""
+              >
+                <tr
+                  data-v-ceef3348=""
+                >
+                  <th
+                    class=""
+                    data-v-ceef3348=""
+                    style="width: 150px;"
+                  >
+                    <div
+                      class="d-inline"
+                      data-v-ceef3348=""
+                    >
+                      Samppa Nori
+                    </div>
+                    <!---->
+                  </th>
+                  <th
+                    class=""
+                    data-v-ceef3348=""
+                    style="width: 150px;"
+                  >
+                    <div
+                      class="d-inline"
+                      data-v-ceef3348=""
+                    >
+                      
+                    </div>
+                    <!---->
+                  </th>
+                </tr>
+                <!---->
+              </thead>
+              <tbody
+                class="position-relative"
+                data-v-ceef3348=""
+              >
+                <tr
+                  data-v-ceef3348=""
+                >
+                  <td
+                    class=""
+                    data-v-ceef3348=""
+                  >
+                     registered 
+                  </td>
+                  <td
+                    class=""
+                    data-v-ceef3348=""
+                  >
+                     2012/01/01 
+                  </td>
+                </tr>
+                <!---->
+                <tr
+                  data-v-ceef3348=""
+                >
+                  <td
+                    class=""
+                    data-v-ceef3348=""
+                  >
+                     role 
+                  </td>
+                  <td
+                    class=""
+                    data-v-ceef3348=""
+                  >
+                     Member 
+                  </td>
+                </tr>
+                <!---->
+                <tr
+                  data-v-ceef3348=""
+                >
+                  <td
+                    class=""
+                    data-v-ceef3348=""
+                  >
+                     status 
+                  </td>
+                  <td
+                    class=""
+                    data-v-ceef3348=""
+                  >
+                     Active 
+                  </td>
+                </tr>
+                <!---->
+                <!---->
+              </tbody>
+              <!---->
+            </table>
+            <!---->
+          </div>
+          <!---->
+        </div>
+      </div>
+       
+      <footer
+        class="card-footer"
+      >
+        <button
+          class="btn btn-primary"
+          type="button"
+        >
+          Back
+        </button>
+      </footer>
+    </div>
+  </div>
+</div>
+`;
