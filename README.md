@@ -2,7 +2,7 @@
 
 ###### Project on Vue JS with Firebase database with ready Auth authentication, i.e. you can register and log in Ready-made dashboards from CoreUi
 
-Quick start:
+###### Quick start:
 
 `git clone git@github.com:VladimirKrupin/Vue-js-firebase-Auth-CoreUi.git`
 
@@ -10,23 +10,23 @@ Quick start:
 
 `cp .env.example .env`
 
-put the Settings in .env from firebase https://console.firebase.google.com/
+###### put the Settings in .env from firebase https://console.firebase.google.com/
 
-know how make it in video:
+###### know how make it in video:
 
 https://blog.logrocket.com/vue-firebase-authentication/
 
 https://tproger.ru/translations/simple-web-app-with-vue-and-firebase/
 
-for local
+###### for local
 
 `npm run serve`
 
-for server
+###### for server
 
 `npm run build`
 
-If you have questions write me vladimir.krupin133@yandex.ru
+###### If you have questions write me vladimir.krupin133@yandex.ru
 
 #### **Ru**
 
