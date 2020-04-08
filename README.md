@@ -1,6 +1,11 @@
-Vue js + firebase + Auth
+#### **En**
 
-Start project:
+###### Vue js + firebase + Auth + CoreUi
+
+_Project on Vue JS with Firebase database with ready Auth authentication, i.e. you can register and log in
+Ready-made dashboards from CoreUi_
+
+Quick start:
 
 `npm i`
 
@@ -21,5 +26,11 @@ for local
 for server
 
 `npm run build`
+
+#### **Ru**
+
+Проект на Vue js с базой данных firebase с готовой аутентификацией Auth, т.е можно зарегистрироваться и авторизоваться
+Для фронта используется готовые решения личного кабинета от CoreUi
+
 
 
