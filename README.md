@@ -4,13 +4,15 @@
 
 ###### Quick start:
 
-`git clone git@github.com:VladimirKrupin/Vue-js-firebase-Auth-CoreUi.git`
+1) `git clone git@github.com:VladimirKrupin/Vue-js-firebase-Auth-CoreUi.git`
 
-`npm i`
+2) `cd Vue-js-firebase-Auth-CoreUi`
 
-`cp .env.example .env`
+3) `npm i`
 
-###### put the Settings in .env from firebase https://console.firebase.google.com/
+4) `cp .env.example .env`
+
+5) ###### put the Settings in .env from firebase https://console.firebase.google.com/
 
 ###### know how make it in video:
 
@@ -20,11 +22,11 @@ https://tproger.ru/translations/simple-web-app-with-vue-and-firebase/
 
 ###### for local
 
-`npm run serve`
+6) `npm run serve`
 
 ###### for server
 
-`npm run build`
+7) `npm run build`
 
 ###### If you have questions write me vladimir.krupin133@yandex.ru
 
